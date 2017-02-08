@@ -1,4 +1,4 @@
-package test;
+package test;//成绩计算
 
 import java.util.Scanner;
 

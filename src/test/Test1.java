@@ -1,4 +1,4 @@
-package test;
+package test;//猜数游戏
 
 import java.util.Scanner;
 
@@ -25,7 +25,6 @@ public class Test1 {
 			guess=in.nextInt();
 		}
 		System.out.println("Right!\nYou guess "+count+" times!");
-		
 	}
 
 }
