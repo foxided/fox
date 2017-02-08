@@ -9,6 +9,7 @@ public class Test1 {
 		Scanner in = new Scanner(System.in);
 		int number=(int)(Math.random()*100+1);
 		int guess,count=1;
+		System.out.println("Please guess a number: (1-100)");
 		guess=in.nextInt();
 		while (guess!=number)
 		{
