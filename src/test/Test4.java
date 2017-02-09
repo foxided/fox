@@ -11,8 +11,7 @@ public class Test4 {
 		int number=input.nextInt();
 		while (number<=0)
 		{
-			System.out.println("Wrong number!");
-			System.out.println("Please enter the number of primes:");
+			System.out.println("Wrong number!\nPlease enter the number of primes:");
 			number=input.nextInt();
 		}
 		int[] prime = new int[number];

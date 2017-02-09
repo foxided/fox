@@ -11,8 +11,7 @@ public class Test2 {
 		int i,n=input.nextInt(),result=1;
 		while (n<0)
 		{
-			System.out.println("Wrong number!");
-			System.out.println("Please enter a number:");
+			System.out.println("Wrong number!\nPlease enter a number:");
 			n=input.nextInt();
 		}
 		for (i=1;i<=n;i++)

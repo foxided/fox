@@ -18,8 +18,7 @@ public class Test5 {
 		range=input.nextInt();
 		while (range<2)
 		{
-			System.out.println("Wrong range!");
-			System.out.println("Please enter the range of primes:");
+			System.out.println("Wrong range!\nPlease enter the range of primes:");
 			range=input.nextInt();
 		}
 		for (int i=2;i<=range;i++)
