@@ -1,4 +1,4 @@
-package test;//素数查询1
+package test;//素数查询-数量
 
 import java.util.Scanner;
 
